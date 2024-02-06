@@ -3,7 +3,7 @@
 
 Olá! Boas_vindas!
 
-Olá, sou Káren, uma entusiasta da tecnologia apaixonada por explorar o mundo dos dados. Minha jornada na área da tecnologia começou há cerca de um ano, e desde então mergulhei de cabeça nesse universo fascinante. Descobri uma verdadeira paixão pela análise de dados, pela maneira como ela nos permite extrair insights valiosos e tomar decisões informadas.
+Sou Káren, uma entusiasta da tecnologia apaixonada por explorar o mundo dos dados. Minha jornada na área da tecnologia começou há cerca de um ano, e desde então mergulhei de cabeça nesse universo fascinante. Descobri uma verdadeira paixão pela análise de dados, pela maneira como ela nos permite extrair insights valiosos e tomar decisões informadas.
 
 Tenho experiência em Python e SQL, com ênfase em limpeza de dados, análises exploratórias, análises estatísticas e visualizações utilizando Tableau. Durante meu tempo no bootcamp da TripleTen em Análise de Dados, aprofundei meus conhecimentos nessas áreas e desenvolvi habilidades sólidas para manipular e analisar dados de forma eficaz.
 
