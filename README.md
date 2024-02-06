@@ -1,7 +1,6 @@
-### OlÁ!!👋
+### Olá!!👋
 
-
-Olá! Boas_vindas!
+ Boas_vindas!
 
 Sou Káren, uma entusiasta da tecnologia apaixonada por explorar o mundo dos dados. Minha jornada na área da tecnologia começou há cerca de um ano, e desde então mergulhei de cabeça nesse universo fascinante. Descobri uma verdadeira paixão pela análise de dados, pela maneira como ela nos permite extrair insights valiosos e tomar decisões informadas.
 
