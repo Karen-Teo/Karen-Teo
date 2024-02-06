@@ -1,6 +1,6 @@
 ### OlÁ!!👋
 
-<!--
+
 Olá! Boas_vindas!
 
 Olá, sou Káren, uma entusiasta da tecnologia apaixonada por explorar o mundo dos dados. Minha jornada na área da tecnologia começou há cerca de um ano, e desde então mergulhei de cabeça nesse universo fascinante. Descobri uma verdadeira paixão pela análise de dados, pela maneira como ela nos permite extrair insights valiosos e tomar decisões informadas.
@@ -26,4 +26,4 @@ Adoro praticar musculação como meu hobby favorito.
 Sou viciada em café e chocolate, não consigo resistir a uma boa xícara de café ou um pedaço de chocolate.
 Um fato interessante sobre mim é que estou atualmente explorando meu lado culinário e experimentando novas receitas na cozinha.
 
--->
+
