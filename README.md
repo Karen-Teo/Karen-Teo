@@ -31,4 +31,3 @@ Se você quiser entrar em contato comigo, fique à vontade para me enviar uma me
 - LinkedIn: [https://www.linkedin.com/in/k%C3%A1ren-silva-a8131a256/edit/forms/contact-info/new/]
 
 Não hesite em explorar meus repositórios e contribuir com sugestões ou comentários. Obrigado por visitar meu perfil!
-
