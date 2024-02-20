@@ -24,11 +24,11 @@ Olá! Eu sou Káren, um entusiasta da tecnologia apaixonado por análise de dado
 - 🍳 Um fato interessante sobre mim é que estou atualmente explorando meu lado culinário e experimentando novas receitas na cozinha.
 
 
-
 ## Contato
 
 Se você quiser entrar em contato comigo, fique à vontade para me enviar uma mensagem aqui no GitHub ou me encontrar em outras plataformas:
 
-- LinkedIn: [https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BwiknVDOuQKGyut3wCzXwrQ%3D%3D]
+- LinkedIn: [https://www.linkedin.com/in/k%C3%A1ren-silva-a8131a256/edit/forms/contact-info/new/]
 
 Não hesite em explorar meus repositórios e contribuir com sugestões ou comentários. Obrigado por visitar meu perfil!
+
