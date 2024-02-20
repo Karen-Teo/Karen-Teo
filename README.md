@@ -26,8 +26,8 @@ Olá! Eu sou Káren, um entusiasta da tecnologia apaixonado por análise de dado
 
 ## Contato
 
-Se você quiser entrar em contato comigo, fique à vontade para me enviar uma mensagem aqui no GitHub ou me encontrar em outras plataformas:
+Se você quiser entrar em contato comigo, fique à vontade para me enviar uma mensagem aqui no GitHub ou me encontrar em outra plataforma:
 
 - LinkedIn: [https://www.linkedin.com/in/k%C3%A1ren-silva-a8131a256/edit/forms/contact-info/new/]
 
-Não hesite em explorar meus repositórios e contribuir com sugestões ou comentários. Obrigado por visitar meu perfil!
+"Visite meus repositórios, agradeço pela visita e espero sua participação criativa!"
