@@ -8,7 +8,7 @@ Olá! Eu sou Káren, um entusiasta da tecnologia apaixonado por análise de dado
  
  💻 Principais habilidades: Python, SQL
  
- 📚 Sempre buscando aprender mais e me aprimorar em novas tecnologia
+ 📚 Sempre buscando aprender mais e me aprimorar em novas tecnologias
 
  
 
@@ -36,5 +36,6 @@ Olá! Eu sou Káren, um entusiasta da tecnologia apaixonado por análise de dado
 Se você quiser entrar em contato comigo, fique à vontade para me enviar uma mensagem aqui no GitHub ou me encontrar em outra plataforma:
 
 - LinkedIn: [https://www.linkedin.com/in/k%C3%A1ren-silva-a8131a256/edit/forms/contact-info/new/]
+- E-mail: karentimoteodasilva@gmail.com
 
 "Visite meus repositórios, agradeço pela visita e espero sua participação criativa!"
