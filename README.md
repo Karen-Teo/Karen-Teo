@@ -1,6 +1,6 @@
  # Bem-vindo ao meu perfil do GitHub! 👋
 
-Olá! Eu sou Káren, um entusiasta da tecnologia apaixonado por análise de dados e aprendizado de máquina. Estou finalizando o bootcamp da TripleTen em Análise de Dados e estou sempre buscando aprender mais e me aprimorar em novas tecnologias.
+Olá! Eu sou Káren, um entusiasta da tecnologia apaixonado por análise de dados e aprendizado de máquina. Finalizei a pouco tempo o bootcamp da TripleTen em Análise de Dados e estou sempre buscando aprender mais e me aprimorar em novas tecnologias.
 
 
 ## Sobre mim
