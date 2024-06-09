@@ -4,7 +4,7 @@ Olá! Eu sou Káren, um entusiasta da tecnologia apaixonado por análise de dado
 
 
 ## Sobre mim
- 🎓 Finalizei o bootcamp da TripleTen em Análise de Dados
+ 🎓 Formada em Análise de Dados pelo bootcamp da TripleTen 
  
  💻 Principais habilidades: Python, SQL
  
