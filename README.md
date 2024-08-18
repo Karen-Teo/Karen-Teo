@@ -6,7 +6,7 @@ Olá! Eu sou Káren, um entusiasta da tecnologia apaixonado por análise de dado
 ## Sobre mim
  🎓 Formada em Análise de Dados pelo bootcamp da TripleTen 
  
- 💻 Principais habilidades: Python, SQL
+ 💻 Principais habilidades:Python, SQL, Visualização, ML, Planilhas, Tableau.
  
  📚 Sempre buscando aprender mais e me aprimorar em novas tecnologias
 
@@ -24,7 +24,7 @@ Olá! Eu sou Káren, um entusiasta da tecnologia apaixonado por análise de dado
 
 
 ## Fatos Divertidos
- 💪 Adoro praticar musculação como meu hobby favorito.
+ 💪 Amo treinar musculação, meu hobby favorito.
  
  ☕️🍫 Sou viciada em café e chocolate, não consigo resistir a uma boa xícara de café ou um pedaço de chocolate.
  
