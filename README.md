@@ -11,7 +11,7 @@ Olá! Eu sou Káren — em transição para Dev Salesforce Júnior.
 
 
 
-## Habilidades (Salesforce Dev Jr)
+## Habilidades Salesforce Dev Jr
 
   *Apex* classes, triggers, testes
   *SOQL* consultas e modelagem de dados (relacionamentos)
